@@ -1,0 +1,14 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Adry Kenshi",
+            "email": "Adry@dryca.com"
+        },
+        {
+            "id": 2,
+            "name": "Janine Olash",
+            "email": "jana@canadians.com"
+        }
+    ]
+}

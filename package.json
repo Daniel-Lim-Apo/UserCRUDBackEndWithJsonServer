@@ -1,0 +1,16 @@
+{
+  "name": "user-crud-back-end",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json --port 3011"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "0.17.1",
+    "ssl-root-cas": "^1.3.1"
+  }
+}
